@@ -1,0 +1,9 @@
+San Isidro;San Isidro
+UTPL;UTPL
+Cruz Roja;Cruz Roja
+San Isidro;260;2643,20
+UTPL;452;986,30
+Cruz Roja;360;5662,20
+San Isidro;260;2643,20
+UTPL;452;986,30
+Cruz Roja;360;5662,20
